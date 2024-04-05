@@ -9,5 +9,8 @@ print("Helloworld")
 """Jst adding a comment"""
 123
 print(random.randint(1, 10))
+for i in range(0,5):
+    print(i-1)
+
 
 
